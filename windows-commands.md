@@ -1,0 +1,155 @@
+Arp
+Assoc
+At
+Atmadm
+Attrib
+Bootcfg
+Break
+Cacls
+Call
+Chcp
+Chdir (Cd)
+Chkdsk
+Chkntfs
+Cipher
+Cls
+Cmd
+Cmstp
+Color
+Comp
+Compact
+Convert
+Copy
+Date
+Diskcomp
+Diskcopy
+DiskPart
+Doskey
+Driverquery
+Echo
+Endlocal
+Eventcreate
+Eventquery.vbs
+Eventtriggers
+Exit
+Expand
+Fc
+Using filters
+Find
+Findstr
+Finger
+For
+Ftp
+Ftype
+Getmac
+Goto
+Gpresult
+Graftabl
+Help
+Helpctr
+Hostname
+If
+Ipconfig
+Ipseccmd
+Ipxroute
+Irftp
+Label
+Lodctr
+Lpq
+Lpr
+Macfile
+Mkdir
+Mmc
+Mode
+More
+Mountvol
+Move
+Msiexec
+Msinfo32
+Nbtstat
+Netsh commands for AAAA
+Netsh commands for DHCP
+Netsh diagnostic (diag) commands
+Netsh commands for Interface IP
+Netsh commands for RAS
+Netsh commands for Routing
+Netsh commands for WINS
+Netstat
+Net services overview
+Net services commands
+Nslookup
+Nslookup subcommands
+Ntbackup
+Ntcmdprompt
+Ntsd
+Logman
+Perfmon
+Relog
+Tracerpt
+Typeperf
+Openfiles
+Pagefileconfig.vbs
+Path
+Pathping
+Pause
+Pbadmin
+Pentnt
+Ping
+Popd
+Print
+Prncnfg.vbs
+Prndrvr.vbs
+Prnjobs.vbs
+Prnmngr.vbs
+Prnport.vbs
+Prnqctl.vbs
+Prompt
+Pushd
+Rasdial
+Rcp
+Recover
+Gpupdate
+Reg
+Regsvr32
+Rem
+Rename (ren)
+Replace
+Rexec
+Rmdir
+Route
+Rsh
+Rsm
+Runas
+SC
+Schtasks
+Secedit
+Set
+Setlocal
+Shift
+Shutdown
+Sort
+Start
+Subst
+Systeminfo
+Taskkill
+Tasklist
+Tcmsetup
+Telnet
+Tftp
+Time
+W32tm
+Title
+Tracert
+Tree
+Cprofile
+Flattemp
+Reset session
+Type
+Unlodctr
+Ver
+Verify
+Vol
+Vssadmin
+Winnt32
+Winnt
+Xcopy
