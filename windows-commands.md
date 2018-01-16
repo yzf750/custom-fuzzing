@@ -115,7 +115,7 @@ Rem
 Rename (ren)
 Replace
 Rexec
-Rmdir
+Rmdir (rd)
 Route
 Rsh
 Rsm
@@ -131,6 +131,7 @@ Sort
 Start
 Subst
 Systeminfo
+System File Checker (sfc)
 Taskkill
 Tasklist
 Tcmsetup
