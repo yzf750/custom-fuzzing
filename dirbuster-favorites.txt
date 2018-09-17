@@ -2,3 +2,5 @@
 /.git/index
 /.git/config
 /.git/logs/HEAD
+/backup
+/backups
