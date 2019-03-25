@@ -11,3 +11,5 @@ menu
 main
 start
 elmah.axd
+robots.txt
+sitemap.xml
